@@ -1,0 +1,15 @@
+.headerContainer {
+  background-color: #ffffff;
+  height: 5rem;
+}
+
+.logo {
+  ::before {
+    content: "";
+  }
+  margin: 0 auto;
+  padding: 1rem 2rem;
+
+  &__logo {
+  }
+}
